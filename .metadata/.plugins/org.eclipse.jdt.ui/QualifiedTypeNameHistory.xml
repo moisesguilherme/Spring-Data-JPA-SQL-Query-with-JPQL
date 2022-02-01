@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2602.repositories.CustomerRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2611.projections.MovieMinProjection"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2611.dto.MovieMinDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2621.projections.ProductMinProjection"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
